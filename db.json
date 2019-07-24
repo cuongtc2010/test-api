@@ -1,5 +1,5 @@
 {
-    "user" : [
+    "user" :
         {
             "status": 200,
             "data": {
@@ -16,5 +16,4 @@
                 "deleted": false
             }
         }
-    ]
 }
